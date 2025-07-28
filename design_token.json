@@ -1,0 +1,9 @@
+{
+  "colors": {
+    "primary": "#3366FF",
+    "secondary": "#00CC88"
+  },
+  "spacing": {
+    "small": 8.0
+  }
+}
